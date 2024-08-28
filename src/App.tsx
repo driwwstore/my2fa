@@ -71,7 +71,7 @@ export default function App() {
         <div className="flex flex-col items-center w-full h-screen space-y-6">
           <div className="flex flex-row space-x-2 w-full">
             <h1 className="text-transparent font-mono font-bold lg:text-5xl text-3xl bg-gradient-to-t from-zinc-300 from-50% via-slate-300 via-30% to-slate-700 bg-clip-text">
-              2FA Driw Project
+              2FA Generator Driw Project
             </h1>
           </div>
           <div className="w-full">
